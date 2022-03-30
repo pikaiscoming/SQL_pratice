@@ -1,5 +1,5 @@
 CREATE TABLE Covid_data (
-ID INT,
+ID INT Primary Key,
 Disease_name varchar(45),
 Year INT,
 Month INT,
